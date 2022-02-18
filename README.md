@@ -1,5 +1,5 @@
 # Resource-Aware-Generalization
-Code and supplementary material submitted to IJCAI
+Code and supplementary material submitted to AAMAS 22
 - Numerical simulations with 4 baseline algorithms 
 - Experiment on the game StarCraft 2
 
