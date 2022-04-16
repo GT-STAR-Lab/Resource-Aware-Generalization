@@ -22,7 +22,8 @@ The code requires the installation of the following packages:
 This work is released under the MIT License. Please find more details in the license file.
 
 # Publication
-If you use this code in your publication, please cite the paper linked here.
+If you use this code in your publication, please cite the paper linked [here](https://arxiv.org/abs/2108.02733).
+
 @article{srikanthan2021resource,
   title={Resource-Aware Adaptation of Heterogeneous Strategies for Coalition Formation},
   author={Srikanthan, Anusha and Ravichandar, Harish},
