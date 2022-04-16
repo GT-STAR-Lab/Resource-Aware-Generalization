@@ -18,3 +18,15 @@ The code requires the installation of the following packages:
 - cvxpy
 - matplotlib
 
+# License
+This work is released under the MIT License. Please find more details in the license file.
+
+# Publication
+If you use this code in your publication, please cite the paper linked here.
+@article{srikanthan2021resource,
+  title={Resource-Aware Adaptation of Heterogeneous Strategies for Coalition Formation},
+  author={Srikanthan, Anusha and Ravichandar, Harish},
+  journal={arXiv preprint arXiv:2108.02733},
+  year={2021}
+}
+
