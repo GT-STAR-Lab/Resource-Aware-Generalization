@@ -1,5 +1,8 @@
 # Resource-Aware-Generalization
-Code and supplementary material submitted to AAMAS 22
+Code and supplementary material associated with the following paper:
+> A. Srikanthan, H. Ravichandar, “Resource-Aware Adaptation of Heterogeneous Strategies for Coalition Formation”, Autonomous Agents and Multi-Agent Systems (AAMAS) – Extended Abstract, 2022.
+
+The code provided here can reproduce the following experiments from the paper:
 - Numerical simulations with 4 baseline algorithms 
 - Experiment on the game StarCraft 2
 
